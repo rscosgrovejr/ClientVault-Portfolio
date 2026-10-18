@@ -2,6 +2,10 @@
 
 **Client Information Management & Business Workflow Application**
 
+## Application Screenshot
+
+![ClientVault Dashboard](clientvault%20image.png)
+
 ClientVault is a custom business application project demonstrating how centralized client records, structured data, and practical workflows can simplify business operations.
 
 The project emphasizes database-driven application design, clear user interfaces, and maintainable software architecture.
